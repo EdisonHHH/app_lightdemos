@@ -11,7 +11,7 @@ import android.app.Notification;
 
 import android.os.Handler;
 import java.util.logging.LogRecord;
-
+//djfdigj
 public class MainActivity extends AppCompatActivity {
 
     private Button mLightButton=null;
